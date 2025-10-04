@@ -1,4 +1,4 @@
-# proyecto_mosulo1_equipo2
+# proyecto_modulo1_equipo2
 
 Working Agreements
 
