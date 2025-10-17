@@ -14,8 +14,10 @@ En el repositorio encontrarás varias carpetas.
 Por una parte, se encuentran las versiones finales del código de cada juego, en la carpeta "proyecto_juegos_definitivos". 
 
 Por otra parte, se encuentran las carpetas de trabajo correspondientes al desarrollo de cada juego.
-¡No las toques! Son carpetas internas de desarrollo de producto.
-El equipo las usará si así es necesario para revisar versiones anteriores del código.
+Son carpetas internas de desarrollo de producto.
+El equipo las usará si así es necesario para revisar versiones anteriores del código o posibles 'next steps'.
+ 
+ Por ejemplo, en el caso del piedra, papel, tijera, el código fue optimizado (Piedra, Papel, Tijera/'piedra,papel,tijera funcion.ipynb'), a falta de añadir los prints finales y los emojis. Por ello, la versión con funciones del juego se encuentra en las carpetas de desarrollo de producto. 
 
 ## ¿Cómo son los archivos de cada juego?
 
